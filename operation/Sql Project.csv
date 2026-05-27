@@ -1,0 +1,101 @@
+Order_ID,Product,Quantity,Warehouse,Delivery_Status,Delivery_Flag
+1,B,63,Completed,B,Unknown
+2,Completed,73,C,Delivered,On Time
+3,C,82,Completed,Completed,On Time
+4,B,100,Completed,A,Unknown
+5,Delivered,78,Completed,Delivered,On Time
+6,Pending,24,B,A,Unknown
+7,B,56,Delivered,Pending,Delayed
+8,Pending,23,C,C,Unknown
+9,Delivered,65,Pending,A,Unknown
+10,Delivered,42,Completed,Delivered,On Time
+11,B,96,C,Pending,Delayed
+12,Delivered,12,Delivered,B,Unknown
+13,B,34,Delivered,Pending,Delayed
+14,Completed,83,Pending,Delivered,On Time
+15,A,86,B,Pending,Delayed
+16,Delivered,21,Completed,Completed,On Time
+17,Pending,11,Completed,Completed,On Time
+18,Delivered,75,A,A,Unknown
+19,Delivered,8,A,Pending,Delayed
+20,Delivered,52,Completed,Pending,Delayed
+21,Pending,53,B,Completed,On Time
+22,Completed,3,Pending,Completed,On Time
+23,Delivered,10,Pending,Completed,On Time
+24,Delivered,38,C,Completed,On Time
+25,Completed,83,B,Delivered,On Time
+26,Completed,78,Delivered,Delivered,On Time
+27,B,31,Pending,C,Unknown
+28,C,8,B,A,Unknown
+29,C,10,Pending,A,Unknown
+30,Completed,19,A,A,Unknown
+31,Pending,15,Delivered,C,Unknown
+32,Pending,99,Completed,A,Unknown
+33,Completed,77,Delivered,B,Unknown
+34,B,22,Completed,Completed,On Time
+35,B,14,Pending,C,Unknown
+36,B,64,Completed,Completed,On Time
+37,Pending,23,Delivered,A,Unknown
+38,B,99,Delivered,Completed,On Time
+39,Completed,8,B,C,Unknown
+40,Delivered,75,A,C,Unknown
+41,B,84,Pending,Pending,Delayed
+42,B,61,Completed,C,Unknown
+43,C,12,B,B,Unknown
+44,Delivered,87,B,Completed,On Time
+45,C,6,Completed,Pending,Delayed
+46,A,20,C,Delivered,On Time
+47,Pending,14,Pending,Pending,Delayed
+48,B,2,Delivered,Completed,On Time
+49,B,63,Completed,B,Unknown
+50,Completed,71,B,B,Unknown
+51,Completed,52,Pending,Completed,On Time
+52,C,26,Delivered,B,Unknown
+53,B,57,Delivered,C,Unknown
+54,B,32,Delivered,B,Unknown
+55,A,38,Pending,Delivered,On Time
+56,C,65,A,B,Unknown
+57,B,87,B,B,Unknown
+58,B,36,B,Pending,Delayed
+59,Completed,6,B,A,Unknown
+60,Completed,64,Completed,Pending,Delayed
+61,A,71,C,C,Unknown
+62,A,18,Delivered,Completed,On Time
+63,C,94,C,Delivered,On Time
+64,A,86,Completed,Pending,Delayed
+65,Completed,78,Completed,C,Unknown
+66,B,45,C,Pending,Delayed
+67,Pending,48,A,Pending,Delayed
+68,Pending,67,A,A,Unknown
+69,C,72,Completed,Pending,Delayed
+70,B,80,Completed,A,Unknown
+71,A,68,Delivered,Completed,On Time
+72,Delivered,30,Pending,C,Unknown
+73,Completed,34,Delivered,B,Unknown
+74,Pending,30,A,C,Unknown
+75,Completed,22,Pending,C,Unknown
+76,Pending,92,C,Delivered,On Time
+77,C,92,C,A,Unknown
+78,C,97,Completed,Completed,On Time
+79,C,91,Delivered,Completed,On Time
+80,C,27,Delivered,Delivered,On Time
+81,Pending,68,Pending,A,Unknown
+82,C,49,Pending,B,Unknown
+83,Delivered,43,C,B,Unknown
+84,A,42,C,B,Unknown
+85,Pending,40,Completed,Delivered,On Time
+86,A,60,Delivered,Pending,Delayed
+87,Completed,51,Delivered,Delivered,On Time
+88,Completed,27,Completed,A,Unknown
+89,Completed,63,Completed,Pending,Delayed
+90,Completed,85,Completed,Delivered,On Time
+91,Delivered,83,B,Pending,Delayed
+92,Pending,12,Completed,Pending,Delayed
+93,C,62,Pending,B,Unknown
+94,C,51,Completed,A,Unknown
+95,C,53,B,B,Unknown
+96,A,68,Pending,C,Unknown
+97,Completed,11,Completed,Pending,Delayed
+98,Completed,69,B,Completed,On Time
+99,Completed,71,B,A,Unknown
+100,Delivered,65,Completed,Completed,On Time
